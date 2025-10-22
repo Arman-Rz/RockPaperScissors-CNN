@@ -50,7 +50,7 @@ RockPaperScissors-CNN
 ├── Model_C.ipynb # DenseNet-inspired CNN with block compression  
 ├── Model_D.ipynb # SqueezeFire hybrid CNN with residual links  
 │  
-├── Project_Report.pdf # Final project report
+├── Project_Report.pdf # Final project report  
 └── README.md # Overview of dataset, setup, and usage
 
 ## Installation & Setup
