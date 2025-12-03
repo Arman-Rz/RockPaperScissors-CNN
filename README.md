@@ -58,7 +58,7 @@ RockPaperScissors-CNN
 1. Clone the repository:
 
 ```
-    git clone https://github.com/<your-username>/RockPaperScissors-CNN.git
+    git clone https://github.com/Arman-Rz/RockPaperScissors-CNN.git
     cd RockPaperScissors-CNN
 ```
 
