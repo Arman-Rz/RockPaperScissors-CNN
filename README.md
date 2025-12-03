@@ -57,20 +57,20 @@ RockPaperScissors-CNN
 
 1. Clone the repository:
 
-```
+``` bash
     git clone https://github.com/Arman-Rz/RockPaperScissors-CNN.git
     cd RockPaperScissors-CNN
 ```
 
 2. Install dependencies
 
-```
+``` bash
     pip install -r requirements.txt
 ```
 
 3. (Optional) If using Kaggle API to fetch the dataset:
 
-```
+``` bash
     kaggle datasets download -d drgfreeman/rockpaperscissors
     unzip rockpaperscissors.zip -d dataset/
 ```
