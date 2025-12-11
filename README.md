@@ -43,6 +43,7 @@ The dataset was preprocessed and saved as CSV files (train.csv, val.csv, test.cs
 ## Project Structure
 
 RockPaperScissors-CNN  
+```
 │  
 ├── Preproc.ipynb # Dataset preprocessing and splitting  
 ├── Model_A.ipynb # Baseline CNN (simple convolutional model)  
@@ -52,6 +53,7 @@ RockPaperScissors-CNN
 │  
 ├── Project_Report.pdf # Final project report  
 └── README.md # Overview of dataset, setup, and usage
+```
 
 ## Installation & Setup
 
